@@ -1,0 +1,34 @@
+{
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.armToolchainPath": false,
+    "cortex-debug.gdbPath": "/usr/bin/gdb-multiarch",
+    "cortex-debug.armToolchainPath": "/usr/bin/",
+    "files.associations": {
+        "main.h": "c",
+        "stm32h7xx_hal.h": "c",
+        "adc.h": "c",
+        "rtc.h": "c",
+        "fdcan.h": "c",
+        "bootloader.h": "c",
+        "cstdio": "c",
+        "cstdint": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "tim.h": "c",
+        "bit_field.h": "c",
+        "constant.h": "c",
+        "variable.h": "c",
+        "gpio.h": "c",
+        "frame.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/josephjoe1209/Documents/user_app/build",
+            "binaryPath": "/home/josephjoe1209/Documents/user_app/build/user_app.elf",
+            "binaryArgs": []
+        }
+    ],
+    "cortex-debug.registerUseNaturalFormat": false,
+    "cortex-debug.variableUseNaturalFormat": false
+}

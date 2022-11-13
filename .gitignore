@@ -1,0 +1,6 @@
+build/*
+
+!build/user_app.bin
+!build/user_app.hex
+!build/user_app.elf
+!build/user_app.map
