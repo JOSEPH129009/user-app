@@ -1,13 +1,14 @@
 # USER APP
 
-- This example code is sused for stm32h7 bootloader demonstration 
+- This example code is used for stm32h7 bootloader demonstration 
 
 - configure four 0.5 Hz blinking LED (Timer Output Compare Mode)
 
 - user app starts at address 0x0802_0000
 
 [**stmh743zi bootloader app**](https://github.com/JOSEPH129009/stm32h7_bootload_app) \
-[**linux serial app**](https://github.com/JOSEPH129009/serial-port-echo-programming)
+[**linux serial app**](https://github.com/JOSEPH129009/serial-port-echo-programming) \
+[**video demonstration**](https://www.youtube.com/watch?v=dADT_mSCsA4)
 
 ### Microcontroller Configuration
 
