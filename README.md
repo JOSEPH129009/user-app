@@ -6,6 +6,8 @@
 
 - user app starts at address 0x0802_0000
 
+- Aside from adjusting flash address to 0x802_0000, the vector table offset has to be modified to 0x2_0000 in system_stm32h7xx.c as well.
+
 [**stmh743zi bootloader app**](https://github.com/JOSEPH129009/stm32h7_bootload_app) \
 [**linux serial app**](https://github.com/JOSEPH129009/serial-port-echo-programming) \
 [**video demonstration**](https://www.youtube.com/watch?v=dADT_mSCsA4)
