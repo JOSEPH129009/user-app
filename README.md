@@ -14,5 +14,5 @@
 
 ### Microcontroller Configuration
 
-![link](image/Screenshot%20from%202022-11-13%2017-12-42.png)
-![link](image/Screenshot%20from%202022-11-13%2017-12-53.png)
+![link](documentation/image/Screenshot%20from%202022-12-04%2012-41-33.png)
+![link](documentation/image/Screenshot%20from%202022-11-13%2017-12-53.png)
